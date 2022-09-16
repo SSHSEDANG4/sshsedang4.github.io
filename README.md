@@ -90,6 +90,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <h2>"github is an open source platform you should keep that in mind"</h2>
+  <center> <h2>"github is an open source platform you should keep that in mind"</h2></center>
  </p>
 
